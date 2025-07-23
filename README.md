@@ -65,4 +65,6 @@ This project is an excellent example of integrating mobile applications with emb
 
 <img width="456" height="763" alt="Image" src="https://github.com/user-attachments/assets/8e788075-fb4b-4a54-b313-0ebbef9af6f0" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/71ac6c93-d045-4eaa-8b7d-df9531bc0064" />
+
 
